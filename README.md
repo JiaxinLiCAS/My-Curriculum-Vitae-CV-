@@ -1,10 +1,11 @@
 
 # $\color{red}{欢迎添加 我的微信(WeChat): BatAug，欢迎交流与合作}$
-# $\color{red}{这是我的个人英文简历，欢迎各位交流}$
+# $\color{red}{这是我的个人英文和中文简历，欢迎各位交流}$
 
-我的英文版本个人简历可在此仓库下载，如您需要此简历模板可以通过微信联系我。
+我的英文和中文版本个人简历可在此仓库下载，如您需要此简历模板可以通过微信联系我。
 
-My english CV can be downloaded in this repository [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/JiaxinLiCAS/My-Curriculum-Vitae-CV-/blob/main/CV_JiaxinLi.pdf).
+My english CV can be downloaded in this repository [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/JiaxinLiCAS/My-Curriculum-Vitae-CV-/blob/main/CV_JiaxinLi_English.pdf).
+My Chinese CV can be downloaded in this repository [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/JiaxinLiCAS/My-Curriculum-Vitae-CV-/blob/main/CV_JiaxinLi_Chinese.pdf).
 
 ### 我是李嘉鑫，25年毕业于中科院空天信息创新研究院的直博生，导师高连如研究员 ###
 
